@@ -198,7 +198,7 @@ main{
 }
 /* footer Styles */
 footer{
-    padding: 130px;
+    padding: 130px 230px;
     display: flex;
     gap: 100px;
 }
